@@ -12,7 +12,16 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        _ = doSomething()
+        _ = doSomething1()
+        _ = doSomething2()
+        _ = doSomething3()
+        _ = doSomething4()
+        _ = doSomething5()
+        _ = doSomething6()
+        _ = doSomething7()
+        _ = doSomethingAndWait()
     }
 
 
